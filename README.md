@@ -74,5 +74,5 @@ As a Software Engineer, I have a deep passion for creating cutting-edge Frontend
 
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=azeezcod&show_icons=true&include_all_commits=true&hide_border=true" alt="Peculiar's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezcodes&langs_count=8&layout=compact&hide_border=true" alt="Peculiar's GitHub stats" /> |
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=azeezcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Peculiar's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezcodes&langs_count=8&layout=compact&hide_border=true" alt="Peculiar's GitHub stats" /> |
 | ------------- | ------------- | 
