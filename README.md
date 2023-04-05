@@ -44,10 +44,9 @@ As a Software Engineer, I have a deep passion for creating cutting-edge Frontend
 
 - 😊 Pronouns: He/him
 - 🧠  Javascript and Typescript buddy.
-- 💡  I enjoy reading articles, playing cards game, scrables and chess 
+- 💡  I enjoy reading articles, cycling and playing puzzle
 - 🌱  Exploring the world of JavaScript to create cool applications.
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼  I am interested in job opportunities as a Frontend Engineer.
 - 📫 Please feel free to contact me for any further inquiries or collaborations.
 - 🔭 Convenient with remote job positions
