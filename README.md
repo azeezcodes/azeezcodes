@@ -38,7 +38,7 @@ Welcome, i'm sure you'd stick around.
 
 [![Linkedin Badge](https://img.shields.io/badge/-azeezcodes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulazeez-onadipe/)](https://www.linkedin.com/in/peculiar-richard-b82062b1/) [![Twitter Badge](https://img.shields.io/badge/-@azeezcode-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/az_omoade)](https://twitter.com/az_omoade)
 
-As a Software Engineer, I have a deep passion for creating cutting-edge Frontend applications that captivate users with their elegance and simplicity. With expertise in JavaScript, TypeScript, and Redux(RTK), I am constantly exploring new technologies to create cool and innovative applications. Additionally, I am highly driven by the challenge of startup growth and am always seeking out new opportunities to enhance my skills and take on exciting new projects.
+As a Software Engineer, I have a deep passion for creating cutting-edge Frontend applications that captivate users with their elegance and simplicity. With expertise in Nextjs, React, JavaScript, TypeScript, and Redux(RTK), I am constantly exploring new technologies to create cool and innovative applications. Additionally, I am highly driven by the challenge of startup growth and am always seeking out new opportunities to enhance my skills and take on exciting new projects.
 
 **Here's a quick summary about me**:
 
